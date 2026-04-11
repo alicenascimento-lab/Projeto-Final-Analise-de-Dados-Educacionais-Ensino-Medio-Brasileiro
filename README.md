@@ -8,7 +8,7 @@ Este projeto tem como objetivo realizar uma análise de dados educacionais do en
 - Nathalia de Almeida Costa - RA: 2402002 
 
 ## 📂 Estrutura de Entregas
-- **AC1:** Entregue – Link do Vídeo: //youtu.be/w0TvZKUn6rs
+- **AC1:** Entregue – Link do Vídeo: https://youtu.be/w0TvZKUn6rs?si=MEDHfwCOryk7WW3D
 - **AC2:** Entregue - Link do vídeo: https://youtu.be/vBFhFv5kuPs?si=EapBEyJCjD9xO2rk  
 - **AC3:** A ser entregue  
 - **AC4 (Final):** A ser entregue  
